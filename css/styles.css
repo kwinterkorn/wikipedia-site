@@ -1,0 +1,49 @@
+img.featured-article-photo{
+  float: left;
+  height: 150px;
+  margin-right: 25px;
+}
+
+img.news-photo{
+  float: right;
+  height: 150px;
+  margin-right: 25px;
+}
+
+img.did-you-know-photo{
+  float: right;
+  height: 150px;
+}
+
+img.this-day-photo{
+  float: right;
+  height: 150px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    width: 200px;
+}
+
+.column1{
+  background: #e6ffee;
+}
+
+.column1-header{
+  background: ##99ff99;
+}
+
+.column2{
+    background: #e6faff;
+
+    .navbar1{
+      float:left;
+    }
+  }
